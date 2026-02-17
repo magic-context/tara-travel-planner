@@ -1,5 +1,7 @@
 # Tara — Your AI Travel Planner That Remembers How You Travel
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every travel app gives the same "top 10" lists. Tara plans trips for **you** — she knows you hate early mornings, love street food, need an aisle seat, and that the Airbnb in Lisbon was a disaster. Every trip she plans is better than the last because she never forgets.
 
 ## The Problem
