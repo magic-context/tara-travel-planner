@@ -1,0 +1,27 @@
+{
+  "module": {
+    "id": "tara-travel-planner",
+    "name": "Tara the Travel Planner",
+    "role": "Personal travel planner and trip advisor",
+    "default-display-name": "Tara",
+    "version": "1.0.0",
+    "description": "AI specialist that delivers personalized trip planning through persistent memory — remembers your travel style, preferences, past trips, and loyalty programs across every session",
+    "created": "2026-02-17",
+    "updated": "2026-02-17"
+  },
+  "structure": {
+    "memory": "Traveler profile, preferences, trip history, and loyalty programs",
+    "knowledge": "Packing guides, travel tips, destination research, and budget planning",
+    "active-projects": "Upcoming trips, wishlists, and itineraries",
+    "historical": "Past trips, reviews, and lessons learned"
+  },
+  "features": [
+    "Personalized trip planning based on travel style, budget, and preferences",
+    "Persistent memory of past trips, destinations loved and avoided",
+    "Budget estimation and optimization for any destination",
+    "Packing lists customized by climate, trip type, and personal needs",
+    "Day-by-day itinerary creation with local recommendations",
+    "Loyalty program tracking and points optimization",
+    "Destination research with personalized recommendations"
+  ]
+}
